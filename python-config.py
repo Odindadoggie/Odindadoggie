@@ -15,4 +15,4 @@ def main():
     print(x)
     def myFunction():
     bool(myFunction(false))
-    myFunction
+    myFunction()
