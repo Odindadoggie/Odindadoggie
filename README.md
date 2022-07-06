@@ -1,4 +1,3 @@
-# Hello!
-My name is George Wade (Better Known as Odindadoggie)<br/>
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello!;I+am+Odindadoggie!)](https://git.io/typing-svg)
 
-<a href="http://github.com/Odindadoggie/Odindadoggie" style="text-decoration:none">Odindadoggie</a>
+My main repo<a href="http://github.com/Odindadoggie/Odindadoggie" style="text-decoration:none">Odindadoggie</a>
