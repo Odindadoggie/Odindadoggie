@@ -1,0 +1,3 @@
+type nnn {
+name: string 
+}
